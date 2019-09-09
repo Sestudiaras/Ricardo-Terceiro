@@ -979,19 +979,9 @@ ol {
 	height: 125px;
 }
 
-.contac-info p {
+.contac-info  {
 	font-size: 15px;
 	color: #323232;
-}
-
-.map-warp {
-	padding-left: 40px;
-	padding-top: 15px;
-}
-
-.map-warp iframe {
-	height: 838px;
-	width: 100%;
 }
 
 /* ----------------
